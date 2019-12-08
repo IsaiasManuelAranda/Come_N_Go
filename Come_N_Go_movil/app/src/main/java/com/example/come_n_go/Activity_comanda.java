@@ -1,9 +1,10 @@
 package com.example.come_n_go;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class Activity_comanda extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
